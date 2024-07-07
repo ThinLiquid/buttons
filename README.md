@@ -3,8 +3,8 @@ make pr, updates at [my site](https://thnlqd.nekoweb.org/#buttons-galore)
 
 ## example entry
 ```md
-programming,technology | got html hypertext markup language | got_html.gif | got html? button
-         ^                                ^                       ^                 ^
-         |                                |                       |                 |
-  [ categories ]                      [ tags ]               [ filename ]     [ description ]
+brand,game,reaction,pop culture | yeah miiverse nintendo network reaction | yeah.gif | Yeah! button | ThinLiquid
+^                                 ^                                         ^           ^             ^
+|                                 |                                         |           |             |   
+[ categories ]                    [ tags ]                                  [ file ]    [ name ]      [ author ]
 ```
