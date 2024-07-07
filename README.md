@@ -8,3 +8,5 @@ programming,technology | got html hypertext markup language | got_html.gif | got
          |                                |                       |                 |
   [ categories ]                      [ tags ]               [ filename ]     [ description ]
 ```
+## current categories
+###  `technology`, `site`, `brand`, `browser`, `programming`, `game`, `app`, `pop culture`
