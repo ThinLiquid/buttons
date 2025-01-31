@@ -1,5 +1,5 @@
 technology,operating_system | arch linux linux archlinux | archlinux.gif | archlinux button
-programming | got html hyper text markup language | got_html.gif | got html? button
+programming,html | got html hyper text markup language | got_html.gif | got html? button
 animated,browser | internet explorer ie microsoft ms | ie_animated.gif | Microsoft Internet Explorer button
 brand,technology | nvidia graphics card | nvidia.gif | nVIDIA button
 reaction,pop_culture | yeah miiverse nintendo network reaction | yeah.gif | Yeah! button | ThinLiquid
@@ -149,8 +149,36 @@ programming,site | oikmo site of stuff | oikmo.png | oikmo.nekoweb.org button | 
 news,site | news fox fox29 | fox29.gif | fox29.com button | Hainesnoids
 news,site | news fox fox29 morning | fox29gdp.gif | fox29.com/shows/good-day button | Hainesnoids
 animated,site | moosyu | moosyuBtn.gif | moosyu button | moosyu
-technology | prox mox proxmox | proxmox.gif | Powered by Proxmox button
+technology | prox mox proxmox | proxmox.gif | Powered by Proxmox button | christmaswreath
 animated,site | thepersonever thepersonever.net  | tpe1.gif | thepersonever button! (1) | thepersonever
 animated,site | thepersonever thepersonever.net  | tpe2.gif | thepersonever button! (2) | thepersonever
 technology,browser,flash | flash adobe macromedia ruffle  | ruffle.png | get ruffle button! | thepersonever
 animated,site | miraworld | miraworldbutton.gif | miraworld button | Miraven
+programming,app | visual studio code vsc vscode | vscode.png | Made in VS Code | Bailey Lockheart
+technology,programming,brand | hosted on netlify hosting | netlify.png | Hosted on Netlify | Bailey Lockheart
+technology,programming,brand | made for neocities | madeforneocities.png | Made for Neocities | Bailey Lockheart
+technology,programming,html | comic sans font comicsans | comic-sans.png | I Code in Comic Sans | Bailey Lockheart
+site,programming,html,css | make a site website | make-a-site.png | You Should Make a Site | Bailey Lockheart
+game,app,pop_culture | genshin impact | genshin.png | Genshin Impact | Bailey Lockheart
+game,app,pop_culture | genshin impact primos primogems now | primosnow.png | Primogems now! | Bailey Lockheart
+game,app,pop_culture | mlp ponytown pony town | ponytown.png | Pony Town | Bailey Lockheart
+game,app,pop_culture | project sekai pjsk prsk akito kinnie | akito-kinnie.png | Akito Kinnie | Bailey Lockheart
+game,app,pop_culture | project sekai pjsk prsk nene kinnie | nene-kinnie.png | Nene Kinnie | Bailey Lockheart
+game,app,pop_culture | project sekai pjsk prsk kohane kinnie | kohane-kinnie.png | Kohane Kinnie | Bailey Lockheart
+game,app,pop_culture | project sekai pjsk prsk rui kinnie | rui-kinnie.png | Rui Kinnie | Bailey Lockheart
+anime,pop_culture | death note | dnbtn.png | Death Note | Bailey Lockheart
+anime,pop_culture | death note L | l.png | L button | Bailey Lockheart
+music,pop_culture | alien stage alnst | alienstage.png | Alien Stage | Bailey Lockheart
+music,pop_culture | alien stage alnst | alnstlogo.png | Alien Stage | Bailey Lockheart
+music,pop_culture | stray kids hop album | HOP.png | Stream HOP now! | Bailey Lockheart
+site,brand | soundgasm | soundgasm.png | Soundgasm button | Bailey Lockheart
+site,brand | tellonym confess your sins | tellonymbtn.png | Tellonym button | Bailey Lockheart
+site | contact me | contact.png | Contact Me? | Bailey Lockheart
+site | sign my guestbook | guestbook.png | Sign My Guestbook | Bailey Lockheart
+site | lockheartlove lockheart | lockheartlove_button.png | lockheartlove.neocities.org button | Bailey Lockheart
+site,animated | bailey lockheart | bailey-button.gif | baileylockheart.netlify.app button | Bailey Lockheart
+site | puppy puppypilled | Puppypilled-button.png | puppypilled.netlify.app button| Bailey Lockheart
+site | storm st0rm st0rmscribbles | st0rm-button.png | st0rmscribbles.netlify.app button| st0rmscribbles
+site | jaysplace jay jay's place | jaysplacebtn.png | jaysplace.neocities.org button| Jay's Place
+computer,site,website | spacecore | button.png | spacecore button | spacecore
+computer,pc,viewe |computer viewed button| Button2.png | Best viewed with computer button | spacecore
